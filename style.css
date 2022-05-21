@@ -25,7 +25,6 @@
     max-width: 350px;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     background-color: var(--color-White);
     padding: 1rem 1rem;
     border-radius: 2rem;
@@ -48,10 +47,5 @@
 }
 
 
-
-
-
-
-
- .attribution { font-size: 11px; text-align: center; }
+ .attribution { font-size: 0.9rem; text-align: center; }
  .attribution a { color: hsl(228, 45%, 44%); }
